@@ -180,7 +180,7 @@ hr.star-primary:after {
     color: rgb(3, 1, 77)!important;
     position: relative;
     /*font-family: 'Mrs Sheppards', cursive!important;*/
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif!important;
     right: -25px;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
